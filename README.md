@@ -3,7 +3,7 @@ A Python(TensorFlow) based ML model that recommends products based on user purch
 To run:
 1) Run the command "pip install -are Requirements.txt" to install dependencies.
 2) Then run the command "streamlit run Frontend.py".(Note: For Windows users, this command needs to be executed in an anaconda terminal)
-3) Note: First-time run will cause the program to download the datasets and do some pre-calculations required to run the program.
+3) Note: First-time run will cause the program to do some pre-calculations required to run the program.(This will take some time depending on your computer)
 4) Add products using the "Add Product" button (You can add multiple products), and then click on the "Give Recommendation" button to get recommendations.
 
 What does it do:
